@@ -8,12 +8,17 @@ Em 12/11/2026, os arquivos `episode1.jpg` a `episode4.jpg` e suas quatro capas f
 
 O leitor HTML foi recriado. Inclui leitura vertical, seleção de episódio, navegação, zoom, tela cheia quando suportada e memória do último episódio no navegador.
 
-## Pendências
+## Episódio 05
 
-- Recuperar o arquivo consolidado aprovado do episódio 05. A consulta à conversa referenciada retornou cinco turnos recentes e nenhum anexo, sem cursor para mensagens anteriores. Não há episódio 05 no acervo do site recuperado.
+O consolidado `The_Return_of_Berin_Episodio_05_Completo_Webtoon.png` foi fornecido diretamente pelo autor nesta conversa em 12/11/2026. O original tem 1024 × 12288 pixels e excede o limite de envio por arquivo do GitHub. Foi dividido sem perdas em `episode5-part1.png` e `episode5-part2.png`, cada um com 1024 × 6144 pixels, para leitura contínua. A divisão preserva todos os pixels e sua ordem. Título: O preço de um deus. A biblioteca usa o próprio consolidado como miniatura, sem capa gerada.
+
+SHA-256: `bbd116931a1e8caaed10629ae10621ad0d7ebe0a256d1d3dbc0c139c094536f4`.
+
+## Conferência editorial
+
 - Conferir as quatro imagens recuperadas com os originais aprovados; não se afirma validação editorial independente.
 
-Nenhum episódio substituto foi criado. O episódio 05 é identificado como pendente no leitor.
+Os cinco episódios estão disponíveis. Nenhum episódio substituto foi criado.
 
 ## Hospedagem
 
